@@ -1,0 +1,26 @@
+body {
+	/*background:#19208a;*/
+	background:yellow;
+	background-image: linear-gradient(to bottom, red, yellow);
+	 background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+	font-size: 22px;
+	color: lightgrey;
+	font-family: 'Ubuntu', sans-serif;
+	
+}
+
+h1{
+	text-align:center;
+	color:white;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+img{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	-webkit-box-reflect: below 0px linear-gradient(to bottom, rgba(0,0,0,0.0), rgba(0,0,0,0.4));
+}
